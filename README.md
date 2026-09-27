@@ -1,8 +1,8 @@
 
 # 💫 About Me:
-My name is hafizAbbasqadri.
-I am 13 years old.
-I live in NayaNazimabad.
+My name is hafizAbbasqadri.<br>
+I am 13 years old.<br>
+I live in NayaNazimabad.<br>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
